@@ -1,0 +1,104 @@
+[
+  {
+    "id": 1,
+    "image": "http://templateinspire.com/opencart/Grocery/image/cache/catalog/product/04-300x300.png",
+    "title": "Razer",
+    "price": "GH₵1000"
+  },
+  {
+    "id": 2,
+    "image": "http://templateinspire.com/opencart/Grocery/image/cache/catalog/product/02-300x300.png",
+    "title": "Chromebook",
+    "price": "GH₵900"
+  },
+  {
+    "id": 3,
+    "image": "http://templateinspire.com/opencart/Grocery/image/cache/catalog/product/10-300x300.png",
+    "title": "Chromebook",
+    "price": "GH₵900"
+  },
+  {
+    "id": 4,
+    "image": "http://templateinspire.com/opencart/Grocery/image/cache/catalog/product/18-300x300.png",
+    "title": "Chromebook",
+    "price": "GH₵900"
+  },
+  {
+    "id": 5,
+    "image": "http://templateinspire.com/opencart/Grocery/image/cache/catalog/product/12-300x300.png",
+    "title": "Chromebook",
+    "price": "GH₵900"
+  },
+  {
+    "id": 6,
+    "image": "http://templateinspire.com/opencart/Grocery/image/cache/catalog/product/05-300x300.png",
+    "title": "Chromebook",
+    "price": "GH₵900"
+  },
+  {
+    "id": 7,
+    "image": "http://templateinspire.com/opencart/Grocery/image/cache/catalog/product/10-300x300.png",
+    "title": "Chromebook",
+    "price": "GH₵900"
+  },
+  {
+    "id": 8,
+    "image": "http://templateinspire.com/opencart/Grocery/image/cache/catalog/product/01-300x300.png",
+    "title": "Chromebook",
+    "price": "GH₵900"
+  },
+  {
+    "id": 9,
+    "image": "http://templateinspire.com/opencart/Grocery/image/cache/catalog/product/09-300x300.png",
+    "title": "iMac",
+    "price": "GH₵1200"
+  },
+  {
+    "id": 10,
+    "image": "http://templateinspire.com/opencart/Grocery/image/cache/catalog/product/14-300x300.png",
+    "title": "Mac Pro",
+    "price": "GH₵1100"
+  },
+  {
+    "id": 11,
+    "image": "http://templateinspire.com/opencart/Grocery/image/cache/catalog/product/07-300x300.png",
+    "title": "MSI",
+    "price": "GH₵1000"
+  },
+  {
+    "id": 12,
+    "image": "http://templateinspire.com/opencart/Grocery/image/cache/catalog/product/11-300x300.png",
+    "title": "Chromebook",
+    "price": "GH₵900"
+  },
+  {
+    "id": 13,
+    "image": "http://templateinspire.com/opencart/Grocery/image/cache/catalog/product/11-300x300.png",
+    "title": "Chromebook",
+    "price": "GH₵900"
+  },
+  {
+    "id": 14,
+    "image": "http://templateinspire.com/opencart/Grocery/image/cache/catalog/product/07-300x300.png",
+    "title": "Chromebook",
+    "price": "GH₵900"
+  },
+  {
+    "id": 15,
+    "image": "http://templateinspire.com/opencart/Grocery/image/cache/catalog/product/03-300x300.png",
+    "title": "Chromebook",
+    "price": "GH₵900"
+  },
+  {
+    "id": 16,
+    "image": "http://templateinspire.com/opencart/Grocery/image/cache/catalog/product/08-300x300.png",
+    "title": "Chromebook",
+    "price": "GH₵900"
+  },
+  {
+    "id": 17,
+    "image": "http://templateinspire.com/opencart/Grocery/image/cache/catalog/product/11-300x300.png",
+    "title": "Chromebook",
+    "price": "GH₵900"
+  }
+]

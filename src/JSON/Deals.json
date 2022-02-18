@@ -1,0 +1,138 @@
+[
+  {
+    "id": 1,
+    "discount": "15%",
+    "date": "January 1, 2023",
+    "image": "http://templateinspire.com/opencart/Grocery/image/cache/catalog/product/04-300x300.png",
+    "title": "Razer",
+    "price": "GH₵1000"
+  },
+  {
+    "id": 2,
+    "discount": "20%",
+    "date": "June 2, 2022",
+    "image": "http://templateinspire.com/opencart/Grocery/image/cache/catalog/product/02-300x300.png",
+    "title": "Chromebook",
+    "price": "GH₵900"
+  },
+  {
+    "id": 3,
+    "discount": "10%",
+    "date": "November 3, 2022",
+    "image": "http://templateinspire.com/opencart/Grocery/image/cache/catalog/product/10-300x300.png",
+    "title": "Chromebook",
+    "price": "GH₵900"
+  },
+  {
+    "id": 4,
+    "discount": "30%",
+    "date": "Febraury 4, 2023",
+    "image": "http://templateinspire.com/opencart/Grocery/image/cache/catalog/product/18-300x300.png",
+    "title": "Chromebook",
+    "price": "GH₵900"
+  },
+  {
+    "id": 5,
+    "discount": "22%",
+    "date": "August 5, 2022",
+    "image": "http://templateinspire.com/opencart/Grocery/image/cache/catalog/product/12-300x300.png",
+    "title": "Chromebook",
+    "price": "GH₵900"
+  },
+  {
+    "id": 6,
+    "discount": "17%",
+    "date": "March 6, 2022",
+    "image": "http://templateinspire.com/opencart/Grocery/image/cache/catalog/product/05-300x300.png",
+    "title": "Chromebook",
+    "price": "GH₵900"
+  },
+  {
+    "id": 7,
+    "discount": "40%",
+    "date": "December 7, 2022",
+    "image": "http://templateinspire.com/opencart/Grocery/image/cache/catalog/product/10-300x300.png",
+    "title": "Chromebook",
+    "price": "GH₵900"
+  },
+  {
+    "id": 8,
+    "discount": "10%",
+    "date": "October 8, 2022",
+    "image": "http://templateinspire.com/opencart/Grocery/image/cache/catalog/product/01-300x300.png",
+    "title": "Chromebook",
+    "price": "GH₵900"
+  },
+  {
+    "id": 9,
+    "discount": "5%",
+    "date": "July 9, 2022",
+    "image": "http://templateinspire.com/opencart/Grocery/image/cache/catalog/product/09-300x300.png",
+    "title": "iMac",
+    "price": "GH₵1200"
+  },
+  {
+    "id": 10,
+    "discount": "33%",
+    "date": "May 10, 2022",
+    "image": "http://templateinspire.com/opencart/Grocery/image/cache/catalog/product/14-300x300.png",
+    "title": "Mac Pro",
+    "price": "GH₵1100"
+  },
+  {
+    "id": 11,
+    "discount": "26%",
+    "date": "April 11, 2023",
+    "image": "http://templateinspire.com/opencart/Grocery/image/cache/catalog/product/07-300x300.png",
+    "title": "MSI",
+    "price": "GH₵1000"
+  },
+  {
+    "id": 12,
+    "discount": "15%",
+    "date": "May 12, 2022",
+    "image": "http://templateinspire.com/opencart/Grocery/image/cache/catalog/product/11-300x300.png",
+    "title": "Chromebook",
+    "price": "GH₵900"
+  },
+  {
+    "id": 13,
+    "discount": "18%",
+    "date": "November 13, 2022",
+    "image": "http://templateinspire.com/opencart/Grocery/image/cache/catalog/product/11-300x300.png",
+    "title": "Chromebook",
+    "price": "GH₵900"
+  },
+  {
+    "id": 14,
+    "discount": "20%",
+    "date": "February 14, 2023",
+    "image": "http://templateinspire.com/opencart/Grocery/image/cache/catalog/product/07-300x300.png",
+    "title": "Chromebook",
+    "price": "GH₵900"
+  },
+  {
+    "id": 15,
+    "discount": "12%",
+    "date": "December 15, 2022",
+    "image": "http://templateinspire.com/opencart/Grocery/image/cache/catalog/product/03-300x300.png",
+    "title": "Chromebook",
+    "price": "GH₵900"
+  },
+  {
+    "id": 16,
+    "discount": "9%",
+    "date": "February 16, 2022",
+    "image": "http://templateinspire.com/opencart/Grocery/image/cache/catalog/product/08-300x300.png",
+    "title": "Chromebook",
+    "price": "GH₵900"
+  },
+  {
+    "id": 17,
+    "discount": "35%",
+    "date": "July 17, 2022",
+    "image": "http://templateinspire.com/opencart/Grocery/image/cache/catalog/product/11-300x300.png",
+    "title": "Chromebook",
+    "price": "GH₵900"
+  }
+]

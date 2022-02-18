@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "image": "http://127.0.0.1:8080/image/cache/catalog/menu-icon/BABY%20CARE-190x140-190x140.png",
+    "description": "Baby Care",
+    "quantity": 17
+  },
+  {
+    "id": 2,
+    "image": "http://127.0.0.1:8080/image/cache/catalog/menu-icon/CLEANING%20003-190x140-190x140.png",
+    "description": "Cleaning & Household",
+    "quantity": 0
+  },
+  {
+    "id": 3,
+    "image": "http://127.0.0.1:8080/image/cache/catalog/menu-icon/daily%20need%20002-190x140-190x140.png",
+    "description": "Daily Needs",
+    "quantity": 7
+  },
+  {
+    "id": 4,
+    "image": "http://127.0.0.1:8080/image/cache/catalog/menu-icon/BakeryCakesDairy%20PNG-190x140-190x140.png",
+    "description": "Dairy & Bakery",
+    "quantity": 15
+  },
+  {
+    "id": 5,
+    "image": "http://templateinspire.com/opencart/Grocery/image/cache/catalog/menu-icon/FRUTS-190x140-190x140.png",
+    "description": "Fruits",
+    "quantity": 16
+  },
+  {
+    "id": 6,
+    "image": "http://127.0.0.1:8080/image/cache/catalog/menu-icon/BEVRAGES%20004-190x140-190x140.png",
+    "description": "Beverages",
+    "quantity": 17
+  },
+  {
+    "id": 7,
+    "image": "http://127.0.0.1:8080/image/cache/catalog/menu-icon/SPICES-190x140-190x140.png",
+    "description": "Oil & Spices",
+    "quantity": 19
+  },
+  {
+    "id": 8,
+    "image": "http://127.0.0.1:8080/image/cache/catalog/menu-icon/personal%20care001-190x140-190x140.png",
+    "description": "Personal Care",
+    "quantity": 15
+  },
+  {
+    "id": 9,
+    "image": "http://templateinspire.com/opencart/Grocery/image/cache/catalog/menu-icon/R-190x140-190x140.png",
+    "description": "Rice & Grains",
+    "quantity": 18
+  },
+  {
+    "id": 10,
+    "image": "http://templateinspire.com/opencart/Grocery/image/cache/catalog/menu-icon/Snackes%20006-190x140-190x140.png",
+    "description": "Snacks & Food",
+    "quantity": 12
+  }
+]

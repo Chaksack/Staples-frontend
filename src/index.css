@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.icons {
+  transition: 0.5s ease;
+  opacity: 0;
+}
+
+.card:hover > .icons {
+  opacity: 1;
+}
+
+.card:hover .timer {
+  opacity: 0;
+}
+
+.slide {
+  bottom: -3.4rem;
+  transition: 0.4s ease-in;
+}
+
+.blog:hover .slide {
+  bottom: 0;
+}
