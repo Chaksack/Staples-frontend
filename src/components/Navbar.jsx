@@ -95,7 +95,7 @@ const Navbar = () => {
         onClick={toggleMenu}
         className="absolute top-2 right-2 z-[999999] md:hidden"
       >
-        {menu ? (
+        {!menu ? (
           <svg
             xmlns="http://www.w3.org/2000/svg"
             className="h-8 w-8"
@@ -130,8 +130,8 @@ const Navbar = () => {
       <div
         className={
           menu
-            ? `hidden`
-            : `flex flex-col absolute top-0 bg-white w-[100vw] min-h-[100vh] border text-dark z-[1000] md:hidden`
+            ? `flex flex-col absolute top-0 bg-white w-[100vw] min-h-[100vh] border text-dark z-[1000] md:hidden`
+            : `hidden`
         }
       >
         <Selector state={false} />

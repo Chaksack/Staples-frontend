@@ -5,12 +5,14 @@ import Contact from './pages/Contact';
 import 'slick-carousel/slick/slick.css';
 import 'slick-carousel/slick/slick-theme.css';
 import Brand from './pages/Brand';
+import SiteMap from './pages/SiteMap';
+import Special from './pages/Special';
 
 function App() {
   return (
     <div className="overflow-hidden">
       <Navbar />
-      <Home />
+      <SiteMap />
       <Footer />
     </div>
   );

@@ -1,0 +1,131 @@
+[
+  {
+    "id": 1,
+    "item": "Baby Care"
+  },
+  {
+    "id": 2,
+    "item": "Cleaning & Household"
+  },
+  {
+    "id": 3,
+    "item": "Daily Needs"
+  },
+  {
+    "id": 4,
+    "item": "Dairy & Bakery"
+  },
+  {
+    "id": 5,
+    "item": "Fruits"
+  },
+  {
+    "id": 6,
+    "item": "Beverages"
+  },
+  {
+    "id": 7,
+    "item": "Oil & Spices",
+    "subitems": [
+      {
+        "name": "PC",
+        "list": ["beauty & spa", "smart phone", "smart watch"]
+      },
+      {
+        "name": "Mac",
+        "list": ["decor", "printers", "trackballs"]
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "item": "Personal Care",
+    "subitems": [
+      {
+        "name": "Macs"
+      },
+      {
+        "name": "Windows"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "item": "Rice & Grains",
+    "subitems": [
+      {
+        "name": "Mice & Trackballs"
+      },
+      {
+        "name": "Monitors",
+        "list": ["OLED", "LCD", "QLED"]
+      },
+      {
+        "name": "Printers",
+        "list": ["Inkjet", "Laser", "3D"]
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "item": "Sancks & Food"
+  },
+  {
+    "id": 11,
+    "item": "Specials"
+  },
+  {
+    "id": 12,
+    "item": "My Account",
+    "subitems": [
+      {
+        "name": "Account Information"
+      },
+      {
+        "name": "Password"
+      },
+      {
+        "name": "Address Book"
+      },
+      {
+        "name": "Order History"
+      },
+      {
+        "name": "Downloads"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "item": "View Chart"
+  },
+  {
+    "id": 14,
+    "item": "Checkout"
+  },
+  {
+    "id": 15,
+    "item": "Search"
+  },
+  {
+    "id": 16,
+    "item": "Information",
+    "subitems": [
+      {
+        "name": "About Us"
+      },
+      {
+        "name": "Delivery Information"
+      },
+      {
+        "name": "Privacy Policy"
+      },
+      {
+        "name": "Terms & Conditions"
+      },
+      {
+        "name": "Contact Us"
+      }
+    ]
+  }
+]

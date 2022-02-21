@@ -3,102 +3,119 @@
     "id": 1,
     "image": "http://templateinspire.com/opencart/Grocery/image/cache/catalog/product/09-300x300.png",
     "title": "iMac",
-    "price": "GH₵1200"
+    "price": "GH₵1200",
+    "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid officiis dolorum eaque, molestiae "
   },
   {
     "id": 2,
     "image": "http://templateinspire.com/opencart/Grocery/image/cache/catalog/product/14-300x300.png",
     "title": "Mac Pro",
-    "price": "GH₵1100"
+    "price": "GH₵1100",
+    "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid officiis dolorum eaque, molestiae "
   },
   {
     "id": 3,
     "image": "http://templateinspire.com/opencart/Grocery/image/cache/catalog/product/07-300x300.png",
     "title": "MSI",
-    "price": "GH₵1000"
+    "price": "GH₵1000",
+    "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid officiis dolorum eaque, molestiae "
   },
   {
     "id": 4,
     "image": "http://templateinspire.com/opencart/Grocery/image/cache/catalog/product/15-300x300.png",
     "title": "Razer",
-    "price": "GH₵1000"
+    "price": "GH₵1000",
+    "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid officiis dolorum eaque, molestiae "
   },
   {
     "id": 5,
     "image": "http://templateinspire.com/opencart/Grocery/image/cache/catalog/product/05-300x300.png",
     "title": "Chromebook",
-    "price": "GH₵900"
+    "price": "GH₵900",
+    "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid officiis dolorum eaque, molestiae "
   },
   {
     "id": 6,
     "image": "http://templateinspire.com/opencart/Grocery/image/cache/catalog/product/07-300x300.png",
     "title": "Chromebook",
-    "price": "GH₵900"
+    "price": "GH₵900",
+    "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid officiis dolorum eaque, molestiae "
   },
   {
     "id": 7,
     "image": "http://templateinspire.com/opencart/Grocery/image/cache/catalog/product/18-300x300.png",
     "title": "Chromebook",
-    "price": "GH₵900"
+    "price": "GH₵900",
+    "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid officiis dolorum eaque, molestiae "
   },
   {
     "id": 8,
     "image": "http://templateinspire.com/opencart/Grocery/image/cache/catalog/product/12-300x300.png",
     "title": "Chromebook",
-    "price": "GH₵900"
+    "price": "GH₵900",
+    "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid officiis dolorum eaque, molestiae "
   },
   {
     "id": 9,
     "image": "http://templateinspire.com/opencart/Grocery/image/cache/catalog/product/05-300x300.png",
     "title": "Chromebook",
-    "price": "GH₵900"
+    "price": "GH₵900",
+    "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid officiis dolorum eaque, molestiae "
   },
   {
     "id": 10,
     "image": "http://templateinspire.com/opencart/Grocery/image/cache/catalog/product/10-300x300.png",
     "title": "Chromebook",
-    "price": "GH₵900"
+    "price": "GH₵900",
+    "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid officiis dolorum eaque, molestiae "
   },
   {
     "id": 11,
     "image": "http://templateinspire.com/opencart/Grocery/image/cache/catalog/product/01-300x300.png",
     "title": "Chromebook",
-    "price": "GH₵900"
+    "price": "GH₵900",
+    "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid officiis dolorum eaque, molestiae "
   },
   {
     "id": 12,
     "image": "http://templateinspire.com/opencart/Grocery/image/cache/catalog/product/02-300x300.png",
     "title": "Chromebook",
-    "price": "GH₵900"
+    "price": "GH₵900",
+    "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid officiis dolorum eaque, molestiae "
   },
   {
     "id": 13,
     "image": "http://templateinspire.com/opencart/Grocery/image/cache/catalog/product/13-300x300.png",
     "title": "Chromebook",
-    "price": "GH₵900"
+    "price": "GH₵900",
+    "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid officiis dolorum eaque, molestiae "
   },
   {
     "id": 14,
     "image": "http://templateinspire.com/opencart/Grocery/image/cache/catalog/product/03-300x300.png",
     "title": "Chromebook",
-    "price": "GH₵900"
+    "price": "GH₵900",
+    "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid officiis dolorum eaque, molestiae "
   },
   {
     "id": 15,
     "image": "http://templateinspire.com/opencart/Grocery/image/cache/catalog/product/08-300x300.png",
     "title": "Chromebook",
-    "price": "GH₵900"
+    "price": "GH₵900",
+    "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid officiis dolorum eaque, molestiae "
   },
   {
     "id": 16,
     "image": "http://templateinspire.com/opencart/Grocery/image/cache/catalog/product/11-300x300.png",
     "title": "Chromebook",
-    "price": "GH₵900"
+    "price": "GH₵900",
+    "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid officiis dolorum eaque, molestiae "
   },
   {
     "id": 17,
     "image": "http://templateinspire.com/opencart/Grocery/image/cache/catalog/product/17-300x300.png",
     "title": "Chromebook",
-    "price": "GH₵900"
+    "price": "GH₵900",
+    "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid officiis dolorum eaque, molestiae "
   }
 ]
