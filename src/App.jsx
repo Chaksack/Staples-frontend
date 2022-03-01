@@ -7,12 +7,14 @@ import 'slick-carousel/slick/slick-theme.css';
 import Brand from './pages/Brand';
 import SiteMap from './pages/SiteMap';
 import Special from './pages/Special';
+import Details from './pages/Details';
+import Products from './pages/Products';
 
 function App() {
   return (
     <div className="overflow-hidden">
       <Navbar />
-      <SiteMap />
+      <Products />
       <Footer />
     </div>
   );

@@ -1,8 +1,9 @@
 import React, { useState } from 'react';
 import GridView from '../components/containers/GridView';
 import ListView from '../components/containers/ListView';
+import SidePanel from '../components/containers/SidePanel';
 
-const Special = () => {
+const Products = () => {
   const [list, setList] = useState(false);
   const [grid, setGrid] = useState(true);
 
@@ -138,11 +139,12 @@ const Special = () => {
             </select>
           </div>
         </div>
-        <div>
+        <div className="flex justify-between">
+          <SidePanel />
           {grid ? (
             <GridView
               className={
-                'grid sm:grid-cols-2 lg:grid-cols-3 2xl:grid-cols-4 py-5 gap-y-5 place-items-center'
+                'grid sm:grid-cols-2 lg:grid-cols-3 py-5 gap-5 place-items-center'
               }
             />
           ) : (
@@ -155,4 +157,4 @@ const Special = () => {
   );
 };
 
-export default Special;
+export default Products;

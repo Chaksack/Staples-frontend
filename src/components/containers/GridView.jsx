@@ -2,9 +2,9 @@ import React from 'react';
 import ProductCard from '../Cards/ProductCard';
 import data from '../../JSON/Products.json';
 
-const GridView = () => {
+const GridView = ({ className }) => {
   return (
-    <div className="grid sm:grid-cols-2 lg:grid-cols-3 2xl:grid-cols-4 py-5 gap-y-5 place-items-center">
+    <div className={className}>
       {data.map((item) => (
         <ProductCard
           key={item.id}
