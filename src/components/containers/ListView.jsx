@@ -2,9 +2,9 @@ import React from 'react';
 import WideCard from '../Cards/WideCard';
 import data from '../../JSON/Products.json';
 
-const ListView = () => {
+const ListView = ({ className }) => {
   return (
-    <div>
+    <div className={className}>
       {data.map((item) => (
         <WideCard
           key={item.id}

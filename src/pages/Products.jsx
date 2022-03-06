@@ -62,13 +62,13 @@ const Products = () => {
               d="M9 5l7 7-7 7"
             />
           </svg>
-          <h4 className="text-black mx-1">Special Offers</h4>
+          <h4 className="text-black mx-1">Products Page</h4>
         </div>
         <h2 className="text-xl font-serif mt-4">
           <span className="text-primary font-serif">■</span>
-          Special Offers
+          Products Page
         </h2>
-        <div className="border border-lightgrey h-14 rounded md:flex items-center justify-around mt-4 relative">
+        <div className="border border-lightgrey h-14 w-[70%] rounded md:flex items-center justify-around mt-4 ml-auto relative">
           <div className="hidden md:flex gap-2">
             <button className="focus:border" onClick={handleList}>
               <svg
@@ -148,7 +148,7 @@ const Products = () => {
               }
             />
           ) : (
-            <ListView />
+            <ListView className={'w-[70%]'} />
           )}
         </div>
         <span className="text-sm text-dark/80">Showing Page:1 of 6</span>
