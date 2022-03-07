@@ -68,7 +68,7 @@ const Products = () => {
           <span className="text-primary font-serif">■</span>
           Products Page
         </h2>
-        <div className="border border-lightgrey h-14 w-[70%] rounded md:flex items-center justify-around mt-4 ml-auto relative">
+        <div className="border border-lightgrey h-14 lg:w-[70%] rounded md:flex items-center justify-around mt-4 ml-auto relative">
           <div className="hidden md:flex gap-2">
             <button className="focus:border" onClick={handleList}>
               <svg
@@ -139,7 +139,7 @@ const Products = () => {
             </select>
           </div>
         </div>
-        <div className="flex justify-between">
+        <div className="flex flex-col lg:flex-row justify-between">
           <SidePanel />
           {grid ? (
             <GridView

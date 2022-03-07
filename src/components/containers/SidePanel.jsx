@@ -21,12 +21,12 @@ const SidePanel = () => {
   ];
 
   return (
-    <div className="md:w-72">
-      <ul className="border border-lightgrey border-b-0 w-[100%] rounded">
+    <div className="lg:w-72 flex md:flex-col border border-lightgrey/40 w-[100%] justify-center md:justify-between lg:justify-start">
+      <ul className="w-[50%] md:w-[100%] rounded hidden md:flex md:flex-col">
         {products.map((item, index) => {
           return (
             <li
-              className="border border-x-0 border-t-0 border-b-lightgrey py-2 px-3 font-serif text-sm text-dark/80 hover:text-primary"
+              className="border my-1 border-b-lightgrey py-2 px-3 font-serif text-sm text-dark/80 hover:text-primary"
               key={index}
             >
               <a href="#">{item}</a>
@@ -34,7 +34,7 @@ const SidePanel = () => {
           );
         })}
       </ul>
-      <div className="my-4">
+      <div className="lg:my-4">
         <h2 className="border border-lightgrey py-2 px-3 font-serif text-sm text-dark/80 hover:text-primary uppercase">
           Filter
         </h2>
